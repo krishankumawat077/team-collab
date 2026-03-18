@@ -1,2 +1,2 @@
-Hi thsi a git collab class to learn
+Hi this a git collab class to learn
 And implement it.
